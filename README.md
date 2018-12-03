@@ -10,4 +10,4 @@
 
 ## BlenderPhysics töö
 
-BlenderPhysics on kiire Blenderi töö, kus pall liigub mööda trajektoore kasutades füüsikat.
+BlenderPhysics on kiire Blenderi töö, kus pall liigub mööda trajektoore kasutades füüsikat, mis on seadistatud ajakavele kasutades võtmekaadreid.
